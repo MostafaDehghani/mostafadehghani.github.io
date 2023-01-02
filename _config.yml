@@ -1,20 +1,18 @@
-title               : John Doe
+title               : Mostafa Dehghani
 description         : >-                               # >- means to ignore newlines until "url:"
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                      Research Scientist at Google Brain.
 
-url                 : "https://vyshnav2255.github.io/Minimal-Portfolio-Website/"
-repository          : Vyshnav2255/Minimal-Portfolio-Website 
+url                 : "https://github.com/MostafaDehghani/MostafaDehghani.github.io"
+repository          : MostafaDehghani/MostafaDehghani.github.io
 
-email: example@xyz.xyz
-github_user: Vyshnav2255
-instagram: vyshnavgangadharan
-twitter: ThisIsVyshnav
-dribbble: vyshnav_
+email: dehghani@google.com
+twitter: m__dehghani
+github_user: MostafaDehghani
+instagram: mo0osina
 
 
 exclude:
 - README.md
-- CONTRIBUTING.md
 - LICENSE
 - Gemfile
 - Gemfile.lock
